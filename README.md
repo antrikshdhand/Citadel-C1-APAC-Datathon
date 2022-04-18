@@ -5,4 +5,4 @@ Our report focused on discovering correlations between the states who invested t
 
 This is my first true start-to-finish data science report.
 
-Note: the raw data is not uploaded here due to file size restrictions.
+Note: the raw data is not uploaded here due to file size restrictions. The best way to view the report is to download and open the HTML file.
